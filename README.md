@@ -17,7 +17,7 @@ This project focuses on predicting gold prices using machine learning techniques
 
 ## Technology Used
 ![InteloneAPI](https://github.com/Pavankurapati03/Gold_Price_Prediction/assets/124707043/30ee0bf4-d821-4871-9eeb-f47dcfc431af)
-The Intel® OneAPI toolkit - Linear regression, naive bayes , Exponential Smoothening enables models to be trained in a more efficient way and results in faster training times. ADAM optimization algorithm is used and a MSE loss function is optimized.
+The Intel® OneAPI toolkit - Linear regression, naive bayes , Exponential Smoothening enables models to be trained in a more efficient way and results in faster training times. 
 
 
 ## Project Motivation
