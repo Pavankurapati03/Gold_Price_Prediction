@@ -11,6 +11,7 @@ This project focuses on predicting gold prices using machine learning techniques
 - [Data](#data)
 - [Methodology](#methodology)
 - [Installation](#installation)
+- [Output](#Output)
 - [Contributing](#contributing)
 
 ## Project Motivation
@@ -46,6 +47,10 @@ To run this project, you will need [numpy,pandas,matplotlib,seaborn,sklearn for 
 - !pip install matplotlib
 - !pip install seaborn
 - !pip install scikit-learn
+
+## Output
+![Screenshot 2023-09-15 100736](https://github.com/Pavankurapati03/Gold_Price_Prediction/assets/124707043/3b985fd5-53bc-425b-b394-aa0d51597877)
+
 
 
 ## Contributing
